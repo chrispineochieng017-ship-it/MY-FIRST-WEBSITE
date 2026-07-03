@@ -1,29 +1,93 @@
-h1 {outline: 4px solid black;
+h1 {
+        font-family:'lucida sans';
+        color: green;
+        outline: 4px solid black;
         text-align: center;
-        font-size: 80px;}
+        font-size: 90px;}
 
 h2 {outline: 4px solid black;
         text-align: center;
         font-size: 60px;}
 
-h3 {outline: 3px solid black;
+h3 { color: blue;
         text-align: center;
-        font-size: 40px;}
-h4{text-align: left;
         font-size: 30px;}
 
-p1{text-align: justify;
-        font-size: 20px;}
+h4{color: brown;
+        font-family:'Franklin Gothic Medium';
+        text-align: left;
+        font-size: 50px;}
+
+h5{color: green;
+        text-align: left;
+        font-size: 30px;}
+
+h6{text-align:center;
+        font-size: 40px;}
+
+h7{font-weight:bold;
+        font-size: 40px;
+        margin: 24px 0 12px;
+        display: block;}
+
+h8{font-weight:bold;
+        font-size: 40px;
+        margin: 24px 0 12px;
+        display: block;}
+
+h9{font-weight:bold;
+        font-size: 40px;
+        margin: 24px 0 12px;
+        display: block;}
+
+h10{font-weight:bold;
+        font-size: 40px;
+        margin: 24px 0 12px;
+        display: block;}
+        
+p1{text-align: center;
+        font-size: 40px;}
+
 p2{text-align: justify;
-        font-size: 20px;}
+        font-size: 40px;}
+
+p3{text-align: justify;
+        font-size: 40px;}
+
+p4{text-align: justify;
+        font-size: 40px;}
+
+p5{text-align: justify;
+        font-size: 40px;}
+
+p6{text-align:justify;
+        font-size: 40px;}
+
+p7{text-align:justify;
+        font-size: 40px;}
+
+p8{text-align:justify;
+        font-size: 40px;}
+
+ul {color: solid black;
+    font-size: 25px;
+    margin:auto;
+    padding: 10px;
+    list-style-type: disc;}
+
+li {margin: 10px;
+    padding: 5px;
+    font-size: 25px;
+    color: solid black;}
+
 
 form {
-    max-width: 420px;
+    max-width: 400px;
     margin: 20px auto;
     padding: 18px;
-    background: #f4f8ff;
+    background: skyblue;
     border: 1px solid #cbd5e1;
-    border-radius: 14px;
+    border-radius: 20px;
     box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
     display: flex;
     flex-direction: column;
