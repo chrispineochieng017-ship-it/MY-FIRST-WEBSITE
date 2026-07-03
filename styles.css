@@ -44,9 +44,7 @@ h10{font-weight:bold;
         font-size: 40px;
         margin: 24px 0 12px;
         display: block;}
-<<<<<<< HEAD
         
-=======
 h11{font-weight:bold;
         font-size: 40px;
         margin: 24px 0 12px;
@@ -69,7 +67,6 @@ h15{font-weight:bold;
         font-size: 40px;}
 
 
->>>>>>> 1aa2dd6 (MY FIRST WEBSITE)
 p1{text-align: center;
         font-size: 40px;}
 
@@ -94,8 +91,6 @@ p7{text-align:justify;
 p8{text-align:justify;
         font-size: 40px;}
 
-<<<<<<< HEAD
-=======
 p9{text-align:justify;
         font-size: 40px;}
 p10{text-align:justify;
@@ -110,7 +105,6 @@ p14{text-align:justify;
         font-size: 40px;}
 
 
->>>>>>> 1aa2dd6 (MY FIRST WEBSITE)
 ul {color: solid black;
     font-size: 25px;
     margin:auto;
@@ -122,8 +116,6 @@ li {margin: 10px;
     font-size: 25px;
     color: solid black;}
 
-<<<<<<< HEAD
-=======
 .video-grid{
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -152,7 +144,6 @@ li {margin: 10px;
             font-size: 0.9rem; color:#333; margin-top:0.5rem;
         }
 
->>>>>>> 1aa2dd6 (MY FIRST WEBSITE)
 
 form {
     max-width: 400px;
