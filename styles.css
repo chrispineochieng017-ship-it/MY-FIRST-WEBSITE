@@ -1,137 +1,36 @@
 body {background-color:
          lightblue;}
 
-h1 {
-        font-family:'lucida sans';
-        color: green;
-        outline: 4px solid black;
+h0 {color: blue;
         text-align: center;
-        font-size: 90px;}
+        font-size: 30px;}
 
-h2 {outline: 4px solid black;
+h1 {color:blue;
         text-align: center;
         font-size: 60px;}
 
-h3 { color: blue;
+h2{ color: blue;
         text-align: center;
-        font-size: 30px;}
+        font-size: 50px;}
 
-h4{color: brown;
+h3{color: brown;
         font-family:'Franklin Gothic Medium';
         text-align: left;
-        font-size: 50px;}
+        font-size: 45px;}
+
+h4{color: green;
+        text-align: left;
+        font-size: 40px;}
 
 h5{color: green;
         text-align: left;
-        font-size: 30px;}
-
-h6{text-align:center;
-        font-size: 40px;}
-
-h7{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-
-h8{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-
-h9{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-
-h10{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-        
-h11{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-h12{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-h13{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-H14{font-weight:bold;
-        font-size: 40px;
-        margin: 24px 0 12px;
-        display: block;}
-h15{font-weight:bold;
-        margin: 24px 0 12px;
-        display: block;
-        font-size: 40px;}
-h16{font-weight:bold;
-        margin: 24px 0 12px;
-        display: block;
-        font-size: 40px;}
-h17{font-weight:bold;
-        margin: 24px 0 12px;
-        display: block;
-        font-size: 40px;}
-        h18
-{font-weight:bold;
-        margin: 24px 0 12px;
-        display: block;
-        font-size: 40px;}
+        font-size: 35px;}
 
 
-p1{text-align: center;
+
+p{text-align: justify;
         font-size: 40px;}
 
-p2{text-align: justify;
-        font-size: 40px;}
-
-p3{text-align: justify;
-        font-size: 40px;}
-
-p4{text-align: justify;
-        font-size: 40px;}
-
-p5{text-align: justify;
-        font-size: 40px;}
-
-p6{text-align:justify;
-        font-size: 40px;}
-
-p7{text-align:justify;
-        font-size: 40px;}
-
-p8{text-align:justify;
-        font-size: 40px;}
-
-p9{text-align:justify;
-        font-size: 40px;}
-
-p10{text-align:justify;
-        font-size: 40px;}
-
-p11{text-align:justify;
-        font-size: 40px;}
-
-P12{text-align:justify;
-        font-size: 40px;}
-
-p13{text-align:justify;
-        font-size: 40px;}
-
-p14{text-align:justify;
-        font-size: 40px;}
-
-p15{text-align:justify;
-        font-size: 40px;}
-
-p16{text-align:justify;
-        font-size: 40px;}
-p17{text-align:justify;
-        font-size: 40px;}
 
 
 ul {color: solid black;
@@ -174,8 +73,7 @@ li {margin: 10px;
         }
 
 
-form {
-    max-width: 400px;
+form {max-width: 400px;
     margin: 20px auto;
     padding: 18px;
     background: skyblue;
@@ -184,8 +82,7 @@ form {
     box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
     display: flex;
     flex-direction: column;
-    gap: 12px;
-}
+    gap: 12px;}
 
 form label {
     font-weight: 600;
