@@ -1,6 +1,36 @@
 body {background-color:
          lightblue;}
 
+.nav ul{
+    margin: 0; 
+}
+
+.nav li{
+    display: inline;
+}
+.nav a{ 
+    display:inline-block;
+    padding: .5em;
+    color:white;
+    text-decoration: none;
+}
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: none;
+}
+.main-nav li{
+    padding:0 5%;
+}
+.nav a:hover{
+    background-color: lightgreen;
+    Background-image: url("IMAGES/BACK.JPG");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
 h {color: blue;
         text-align: center;
         font-size: 30px;}
@@ -76,7 +106,6 @@ li {margin: 10px;
             font-size: 0.9rem; color:#333; margin-top:0.5rem;
         }
 
-
 form {max-width: 400px;
     margin: 20px auto;
     padding: 18px;
@@ -117,8 +146,7 @@ form input[type="submit"]:hover {
     background: #1d4ed8;
 }
 img {
-    display: block;
-    margin: 0 auto;
+    display: flex;flex-direction: row-reverse;
     width: auto;
     max-width: 100%;
 }
